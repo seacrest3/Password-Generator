@@ -31,16 +31,16 @@ The following image shows the web application's appearance and functionality:
 
 When a user clicks on the 'Generate Password' button,
 1. A prompt pops up to ask for entering the length [10 - 64] of the password.
-2. The application validates the input for the following conditions:
+2. The application validates the input for the following password criteria:
 
-   * Password length is not empty.
-   * Password length that must not start with '0' and alert if invalid input has been entered.
-   * Password length must only contain numeric characters and alert if invalid input has been entered.
-   * Password length must be between 10 and 64 inclusive and alert if invalid input has been entered.
+   * Password length must not be empty and alert if invalid input has been entered
+   * Password length that must not start with '0' and alert if invalid input has been entered
+   * Password length must only contain numeric characters and alert if invalid input has been entered
+   * Password length must be between 10 and 64 inclusive and alert if invalid input has been entered
 
-3. Upon validation, a series of prompts pop up to ask for the character types to be used in the the password.
+3. Upon validation, a series of prompts pop up to ask for the character types to be used in the password.
 4. The application then validates each input and at least one character type should be selected.
-5. Once prompts are answered then the password should be generated and displayed to the page as shown by the mock up.
+5. Once prompts are answered then the password should be generated and displayed to the page.
 
 ### Review
 
