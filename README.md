@@ -62,4 +62,6 @@ TA, a Web Developer, reviews the code, providing feedback on errors and making s
 
 - [The OWASP Foundation - Special Characters](https://www.owasp.org/index.php/Password_special_characters)
 
+- [freeCodeCamp](https://www.freecodecamp.org/)
+
 - [Github Pages Guide](https://pages.github.com/)
